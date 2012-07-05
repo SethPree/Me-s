@@ -1,0 +1,13 @@
+Meüs: The game of exacting googling. 
+
+Constraints:
+Players -> Up to about 7 billion. 
+Queries -> Up to 100 per diem. 
+Combinations -> Up to 301 100 choose 2 = 45 330 454 450 (if the OED provides the deck)
+Possible Results -> 1 000 000 000 000, roughly. 
+
+
+The Rules of the Game:
+1. Each player is given a deck of words (size TBD)
+2. Each play is given a collection of random numbers between 1 and one trillion.
+3. Each play has (CONSTRAINT) to produce pairs of words from his or her deck in order to produce the vector of two-word-search that comes closest to the vector of random numbers mentioned in RULE 2.  
