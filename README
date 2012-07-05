@@ -2,7 +2,9 @@ Meüs: The game of exacting googling.
 
 Constraints:
 Players -> Up to about 7 billion. 
-Queries -> Up to 100 per diem. 
+Queries -> Up to 100 per diem.
+  I suggest we develop a simple search crawler that strips the result count from google directly.
+  this way we could garner a few more searches.
 Combinations -> Up to 301 100 choose 2 = 45 330 454 450 (if the OED provides the deck)
 Possible Results -> 1 000 000 000 000, roughly. 
 
